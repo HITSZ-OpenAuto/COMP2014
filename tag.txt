@@ -1,3 +1,4 @@
 category: 限选
+module: 实践课程体系
 semester: 第二学年秋季
 name: C++语言程序设计
