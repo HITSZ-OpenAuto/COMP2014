@@ -87,6 +87,3 @@
 - [现代 C++ 教程：高速上手 C++ 11/14/17/20](https://changkun.de/modern-cpp/zh-cn/00-preface/)
 - [cppreference](https://zh.cppreference.com/w/%E9%A6%96%E9%A1%B5)
 - [mq白](https://github.com/Mq-b)
-
-<p align="right"><strong>update time</strong></strong></p>
-<p align="right"><strong>2023.11</strong></strong></p>
