@@ -1,0 +1,127 @@
+{
+  ".github/workflows/trigger-workflow.yml": {
+    "size": 2592,
+    "time": 1751765573,
+    "hash": "7e17b1f909fb5ce7703ed7e66b2c659c86589ee9"
+  },
+  ".hoa/worktree.json": {
+    "size": 3673,
+    "time": 1751764169,
+    "hash": "bba3681bea5a37609f45ee83117b8abb686ccfe7"
+  },
+  "LICENSE": {
+    "size": 20844,
+    "time": 1713080000,
+    "hash": "bf8621d5259e8e845b063751aa24bf0ff9d6c941"
+  },
+  "README.md": {
+    "size": 5694,
+    "time": 1739008610,
+    "hash": "fb4e857c1c4704b2ce1ea7650a6809181f66f764"
+  },
+  "assignments/.gitkeep": {
+    "size": 0,
+    "time": 1739008610,
+    "hash": "fb4e857c1c4704b2ce1ea7650a6809181f66f764"
+  },
+  "assignments/2023秋季学期C++作业/C++2023秋季学期作业1.pdf": {
+    "size": 222086,
+    "time": 1701183511,
+    "hash": "6120287bb5fc2196538c7900c472b24aeb429e83"
+  },
+  "assignments/2023秋季学期C++作业/C++2023秋季学期作业2.pdf": {
+    "size": 319150,
+    "time": 1701183511,
+    "hash": "6120287bb5fc2196538c7900c472b24aeb429e83"
+  },
+  "assignments/2023秋季学期C++作业/C++2023秋季学期作业3.pdf": {
+    "size": 231080,
+    "time": 1701183511,
+    "hash": "6120287bb5fc2196538c7900c472b24aeb429e83"
+  },
+  "assignments/2023秋季学期C++作业/C++2023秋季学期作业4.pdf": {
+    "size": 270988,
+    "time": 1701183511,
+    "hash": "6120287bb5fc2196538c7900c472b24aeb429e83"
+  },
+  "exams/.gitkeep": {
+    "size": 0,
+    "time": 1739008610,
+    "hash": "fb4e857c1c4704b2ce1ea7650a6809181f66f764"
+  },
+  "exams/2023 年 C++ 期末考试编程题回忆.md": {
+    "size": 1426,
+    "time": 1703998651,
+    "hash": "6a87ab6e5cf2e9fcaf956b3e8c2a8b9e7164d885"
+  },
+  "exams/2023 年 C++ 期末考试编程题回忆.pdf": {
+    "size": 153417,
+    "time": 1703998651,
+    "hash": "6a87ab6e5cf2e9fcaf956b3e8c2a8b9e7164d885"
+  },
+  "materials/.gitkeep": {
+    "size": 0,
+    "time": 1739008610,
+    "hash": "fb4e857c1c4704b2ce1ea7650a6809181f66f764"
+  },
+  "slides/.gitkeep": {
+    "size": 0,
+    "time": 1739008610,
+    "hash": "fb4e857c1c4704b2ce1ea7650a6809181f66f764"
+  },
+  "slides/2023秋课件/0绪论.pdf": {
+    "size": 1927222,
+    "time": 1739008610,
+    "hash": "fb4e857c1c4704b2ce1ea7650a6809181f66f764"
+  },
+  "slides/2023秋课件/1C++新特征.pdf": {
+    "size": 1056933,
+    "time": 1739008610,
+    "hash": "fb4e857c1c4704b2ce1ea7650a6809181f66f764"
+  },
+  "slides/2023秋课件/2类和对象.pdf": {
+    "size": 976278,
+    "time": 1739008610,
+    "hash": "fb4e857c1c4704b2ce1ea7650a6809181f66f764"
+  },
+  "slides/2023秋课件/3类和对象的使用.pdf": {
+    "size": 1010097,
+    "time": 1739008610,
+    "hash": "fb4e857c1c4704b2ce1ea7650a6809181f66f764"
+  },
+  "slides/2023秋课件/4运算符重载.pdf": {
+    "size": 739056,
+    "time": 1739008610,
+    "hash": "fb4e857c1c4704b2ce1ea7650a6809181f66f764"
+  },
+  "slides/2023秋课件/5类的继承.pdf": {
+    "size": 1855399,
+    "time": 1739008610,
+    "hash": "fb4e857c1c4704b2ce1ea7650a6809181f66f764"
+  },
+  "slides/2023秋课件/6C++的多态性.pdf": {
+    "size": 508599,
+    "time": 1739008610,
+    "hash": "fb4e857c1c4704b2ce1ea7650a6809181f66f764"
+  },
+  "slides/2023秋课件/7输入输出流.pdf": {
+    "size": 1772119,
+    "time": 1739008610,
+    "hash": "fb4e857c1c4704b2ce1ea7650a6809181f66f764"
+  },
+  "slides/2023秋课件/8编程规范.pdf": {
+    "size": 470158,
+    "time": 1739008610,
+    "hash": "fb4e857c1c4704b2ce1ea7650a6809181f66f764"
+  },
+  "slides/2023秋课件/README.md": {
+    "size": 201,
+    "time": 1739008610,
+    "hash": "fb4e857c1c4704b2ce1ea7650a6809181f66f764"
+  },
+  "tag.txt": {
+    "size": 101,
+    "time": 1700027871,
+    "hash": "02544a23523376279d020b5a9b578b18f8ae8b35"
+  }
+}
