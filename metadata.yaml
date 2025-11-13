@@ -1,0 +1,189 @@
+ID: "COMP2014"
+SimilarID: []
+Name: "C++语言程序设计"
+CourseProperty:
+  - Major:
+      - Year: "2019_2020"
+        Name: ["机械", "自动化"]
+        Degree: "本"
+    GradeSemesters:
+      - Grade: "大二"
+        Semester: "秋"
+    CourseType: "选修"
+    CourseID: "COMP2014"
+    CourseName: "C++语言程序设计"
+    Credit: "2.0"
+    CourseHour: "32.0"
+    GPAInfluence: "GPA"
+    GroupCourse:
+      Link: ""
+      Desc: ""
+      Name: ""
+      Ids: ["", "", ""]
+    GradeComposition:
+      - Name: "作业"
+        Percentage: "20"
+      - Name: "实验"
+        Percentage: "40"
+      - Name: "期末考试"
+        Percentage: "40"
+    CourseHourComposition:
+      - Name: ""
+        Hour: ""
+      - Name: ""
+        Hour: ""
+
+  - Major:
+      - Year: "2020_2021"
+        Name: ["机械", "自动化"]
+        Degree: "本"
+    GradeSemesters:
+      - Grade: "大二"
+        Semester: "秋"
+    CourseType: "选修"
+    CourseID: "COMP2014"
+    CourseName: "C++语言程序设计"
+    Credit: "2.0"
+    CourseHour: "32.0"
+    GPAInfluence: "GPA"
+    GroupCourse:
+      Link: ""
+      Desc: ""
+      Name: ""
+      Ids: ["", "", ""]
+    GradeComposition:
+      - Name: "作业"
+        Percentage: "20"
+      - Name: "实验"
+        Percentage: "40"
+      - Name: "期末考试"
+        Percentage: "40"
+    CourseHourComposition:
+      - Name: ""
+        Hour: ""
+      - Name: ""
+        Hour: ""
+
+  - Major:
+      - Year: "2021_2022"
+        Name: ["机械", "自动化"]
+        Degree: "本"
+    GradeSemesters:
+      - Grade: "大二"
+        Semester: "秋"
+    CourseType: "限选"
+    CourseID: "COMP2014"
+    CourseName: "C++语言程序设计"
+    Credit: "2.0"
+    CourseHour: "32.0"
+    GPAInfluence: "GPA"
+    GroupCourse:
+      Link: ""
+      Desc: ""
+      Name: ""
+      Ids: ["", "", ""]
+    GradeComposition:
+      - Name: "作业"
+        Percentage: "20"
+      - Name: "实验"
+        Percentage: "40"
+      - Name: "期末考试"
+        Percentage: "40"
+    CourseHourComposition:
+      - Name: ""
+        Hour: ""
+      - Name: ""
+        Hour: ""
+
+  - Major:
+      - Year: "2022_2023"
+        Name: ["机械", "自动化"]
+        Degree: "本"
+    GradeSemesters:
+      - Grade: "大二"
+        Semester: "秋"
+    CourseType: "限选"
+    CourseID: "COMP2014"
+    CourseName: "C++语言程序设计"
+    Credit: "2.0"
+    CourseHour: "32.0"
+    GPAInfluence: "GPA"
+    GroupCourse:
+      Link: ""
+      Desc: ""
+      Name: ""
+      Ids: ["", "", ""]
+    GradeComposition:
+      - Name: "作业"
+        Percentage: "20"
+      - Name: "实验"
+        Percentage: "40"
+      - Name: "期末考试"
+        Percentage: "40"
+    CourseHourComposition:
+      - Name: ""
+        Hour: ""
+      - Name: ""
+        Hour: ""
+
+  - Major:
+      - Year: "2023_2024"
+        Name: ["自动化"]
+        Degree: "本"
+    GradeSemesters:
+      - Grade: "大二"
+        Semester: "秋"
+    CourseType: "限选"
+    CourseID: "COMP2014"
+    CourseName: "C++语言程序设计"
+    Credit: "2.0"
+    CourseHour: "32.0"
+    GPAInfluence: "GPA"
+    GroupCourse:
+      Link: ""
+      Desc: ""
+      Name: ""
+      Ids: ["", "", ""]
+    GradeComposition:
+      - Name: "作业"
+        Percentage: "20"
+      - Name: "实验"
+        Percentage: "40"
+      - Name: "期末考试"
+        Percentage: "40"
+    CourseHourComposition:
+      - Name: ""
+        Hour: ""
+      - Name: ""
+        Hour: ""
+
+  - Major:
+      - Year: "2025_2026"
+        Name: ["自动化"]
+        Degree: "本"
+    GradeSemesters:
+      - Grade: "大三"
+        Semester: "秋"
+    CourseType: "限选"
+    CourseID: "COMP2014"
+    CourseName: "C++语言程序设计"
+    Credit: "2.0"
+    CourseHour: "32.0"
+    GPAInfluence: "GPA"
+    GroupCourse:
+      Link: ""
+      Desc: ""
+      Name: ""
+      Ids: ["", "", ""]
+    GradeComposition:
+      - Name: "作业"
+        Percentage: "20"
+      - Name: "实验"
+        Percentage: "40"
+      - Name: "期末考试"
+        Percentage: "40"
+    CourseHourComposition:
+      - Name: ""
+        Hour: ""
+      - Name: ""
+        Hour: ""
