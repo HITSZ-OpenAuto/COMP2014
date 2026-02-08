@@ -1,15 +1,9 @@
 # COMP2014 - C++语言程序设计
 
-![Static Badge](https://img.shields.io/badge/%E8%80%83%E6%9F%A5%E8%AF%BE-green)
-![Static Badge](https://img.shields.io/badge/%E5%AD%A6%E5%88%86-2-moccasin)
-![Static Badge](https://img.shields.io/badge/拓展选修课-purple)
-
-![Static Badge](https://img.shields.io/badge/%E6%88%90%E7%BB%A9%E6%9E%84%E6%88%90-gold)
-![Static Badge](https://img.shields.io/badge/%E4%BD%9C%E4%B8%9A-20%25-wheat)
-![Static Badge](https://img.shields.io/badge/%E5%AE%9E%E9%AA%8C-40%25-wheat)
-![Static Badge](https://img.shields.io/badge/%E6%9C%9F%E6%9C%AB%E8%80%83%E8%AF%95-40%25-wheat)
-
-## 课程简介（摘自教学大纲）
+![成绩构成](https://img.shields.io/badge/成绩构成-gold)
+![作业20%](https://img.shields.io/badge/作业-20%25-wheat)
+![实验40%](https://img.shields.io/badge/实验-40%25-wheat)
+![期末考试40%](https://img.shields.io/badge/期末考试-40%25-wheat)
 
 本课程是机械类、自动化类及相关专业的专业选修课，可用于数据处理、数值计算和系统程序设计等领域。通过本课程的学习，使学生系统地掌握面向对象设计的思维方式、基本概念与基本方法，达到熟练运用 C++ 语言进行面向对象程序设计、解决实际应用问题的目的。
 
@@ -24,11 +18,21 @@
 ## 授课教师
 
 - 王焦乐
-  - 授课风格：PPT + 课堂上使用 VSCode 演示代码
+  - 授课风格：PPT + 课堂上使用 VSCode 演示代码。
   - 听课建议：由于课后会发PPT，因此只需在课后按照PPT中的内容上网搜索相关资料即可。
-  - `C++` 本是一个工具，你为什么要像准备一门考试一样地学习它呢？
+  - 老师语录：“C++ 本是一个工具，你为什么要像准备一门考试一样地学习它呢？”
+    > 文 / 佚名，2023-11
 
-## 作业/实验
+## 在线资源
+
+- [Cherno 的 cpp 系列](https://www.youtube.com/@TheCherno)：Youtube 优质 C++ 入门教程
+- [Cherno CPP 笔记](https://github.com/Nagi-ovo/Cherno-CPP-Notes)：GitHub 上的 Cherno 课程配套笔记
+- [微软官方 Modern CPP 教程](https://learn.microsoft.com/zh-cn/cpp/cpp/welcome-back-to-cpp-modern-cpp)：权威的 Modern C++ 查阅文档
+- [现代 C++ 教程：高速上手 C++ 11/14/17/20](https://changkun.de/modern-cpp/zh-cn/00-preface/)：系统学习现代 C++ 特性的开源书籍
+- [cppreference](https://zh.cppreference.com/w/%E9%A6%96%E9%A1%B5)：C++ 标准库参考手册（硬核查询用）
+- [mq白](https://github.com/Mq-b)：优质 C++ 学习资源博主
+
+## 作业与实验
 
 作业都非常简单，~~尤其是有了 AI 的帮助后~~，即给出几个任务写出对应的程序，然后在作业中展示代码和运行结果即可。
 
@@ -68,9 +72,7 @@
 
 最后，多看看别人的优质代码，同样的功能，别人是怎么优雅实现的，如此这般你的代码水平才会有所提升。
 
-> 文 / [longlin li](https://github.com/longlin10086), 2023.11
-
----
+> 文 / [longlin](https://github.com/longlin10086)，2023-11
 
 与 [高级语言程序设计](https://github.com/HITSZ-OpenAuto/COMP2021) 一样，作为一门编程语言，你本不应该像学习数学或者历史一样，用死磕书本和题目的方法学习 C++。
 
@@ -78,12 +80,4 @@
 
 说得夸张点，大家已经在自动化专业摸爬滚打一年了，玩「**技术流**」的学生根本不可能惧怕这门课。
 
-> 文 / [Maxwell Jay](https://github.com/MaxwellJay256), 2023.11
-
-## 推荐学习资料
-
-- [Cherno 的 cpp 系列](https://www.youtube.com/@TheCherno)
-- [微软官方 Morden CPP 教程](https://learn.microsoft.com/zh-cn/cpp/cpp/welcome-back-to-cpp-modern-cpp)
-- [现代 C++ 教程：高速上手 C++ 11/14/17/20](https://changkun.de/modern-cpp/zh-cn/00-preface/)
-- [cppreference](https://zh.cppreference.com/w/%E9%A6%96%E9%A1%B5)
-- [mq白](https://github.com/Mq-b)
+> 文 / [Maxwell Jay](https://github.com/MaxwellJay256)，2023-11
