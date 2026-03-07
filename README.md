@@ -1,4 +1,6 @@
 # COMP2014 - C++语言程序设计
+<!-- TOML-META: repo_type="normal" -->
+<!-- TOML-BADGES: source="grades_summary" -->
 
 ![成绩构成](https://img.shields.io/badge/成绩构成-gold)
 ![作业20%](https://img.shields.io/badge/作业-20%25-wheat)
@@ -18,12 +20,16 @@
 ## 授课教师
 
 - 王焦乐
+  <!-- TOML-ITEM: id="review-王焦乐-1" -->
   - 授课风格：PPT + 课堂上使用 VSCode 演示代码。
   - 听课建议：由于课后会发PPT，因此只需在课后按照PPT中的内容上网搜索相关资料即可。
   - 老师语录：“C++ 本是一个工具，你为什么要像准备一门考试一样地学习它呢？”
     > 文 / 佚名，2023-11
 
 ## 在线资源
+<!-- TOML-SECTION: title="在线资源" -->
+
+<!-- TOML-ITEM: id="item-在线资源-1" -->
 
 - [Cherno 的 cpp 系列](https://www.youtube.com/@TheCherno)：Youtube 优质 C++ 入门教程
 - [Cherno CPP 笔记](https://github.com/Nagi-ovo/Cherno-CPP-Notes)：GitHub 上的 Cherno 课程配套笔记
@@ -33,6 +39,9 @@
 - [mq白](https://github.com/Mq-b)：优质 C++ 学习资源博主
 
 ## 作业与实验
+<!-- TOML-SECTION: title="作业与实验" -->
+
+<!-- TOML-ITEM: id="item-作业与实验-1" -->
 
 作业都非常简单，~~尤其是有了 AI 的帮助后~~，即给出几个任务写出对应的程序，然后在作业中展示代码和运行结果即可。
 
@@ -45,6 +54,9 @@
 - [Maxwell Jay/CppLab_2023](https://github.com/MaxwellJay256/CppLab_2023)
 
 ## 关于考试
+<!-- TOML-SECTION: title="关于考试" -->
+
+<!-- TOML-ITEM: id="item-关于考试-1" -->
 
 2023 年的考试和 [高级语言程序设计](https://hoa.moe/docs/fresh-autumn/comp1011/) 类似，考试内容为 选择 + 填空 + 手写编程题（又是你校喜闻乐见的手写代码环节）。
 选择与填空是非常死板的考察 C++ 语言的知识点；编程题比较简单，与实验课的内容相似。
@@ -57,6 +69,9 @@
 - ……
 
 ## 学习建议
+<!-- TOML-SECTION: title="学习建议" -->
+
+<!-- TOML-ITEM: id="item-学习建议-1" -->
 
 都什么年代，还在写传统 cpp ，是时候拥抱摩登 cpp 了。当前项目业务开发，已经没有那种死守c11标准不动的老古董了，而且你校的教学甚至连 c11 标准都达不到，令人感叹。
 
@@ -73,6 +88,8 @@
 最后，多看看别人的优质代码，同样的功能，别人是怎么优雅实现的，如此这般你的代码水平才会有所提升。
 
 > 文 / [longlin](https://github.com/longlin10086)，2023-11
+
+<!-- TOML-ITEM: id="item-学习建议-2" -->
 
 与 [高级语言程序设计](https://github.com/HITSZ-OpenAuto/COMP2021) 一样，作为一门编程语言，你本不应该像学习数学或者历史一样，用死磕书本和题目的方法学习 C++。
 
