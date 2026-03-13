@@ -1,7 +1,6 @@
 course_name = "C++语言程序设计"
-repo_type = "normal"
 course_code = "COMP2014"
-
+repo_type = "normal"
 description = """
 本课程是机械类、自动化类及相关专业的专业选修课，可用于数据处理、数值计算和系统程序设计等领域。通过本课程的学习，使学生系统地掌握面向对象设计的思维方式、基本概念与基本方法，达到熟练运用 C++ 语言进行面向对象程序设计、解决实际应用问题的目的。
 
@@ -14,17 +13,18 @@ description = """
 6. 开发 Windows 应用程序的方法与技巧。
 """
 
-[[lecturers]]
+[lecturers]
+
+[[lecturers.items]]
 name = "王焦乐"
 
-[[lecturers.reviews]]
+[[lecturers.items.reviews]]
 content = """
 授课风格：PPT + 课堂上使用 VSCode 演示代码。
 听课建议：由于课后会发PPT，因此只需在课后按照PPT中的内容上网搜索相关资料即可。
 老师语录：“C++ 本是一个工具，你为什么要像准备一门考试一样地学习它呢？”
 """
 author = { name = "佚名", link = "", date = "2023-11" }
-
 
 [[sections]]
 title = "在线资源"
