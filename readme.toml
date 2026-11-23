@@ -26,6 +26,10 @@ content = """
 """
 author = { name = "佚名", link = "", date = "2023-11" }
 
+[[lecturers.items.reviews]]
+content = "就课程本身而言，王老师讲解清晰，默认学生拥有 C 语言基础，《高级语言程序设计》中讲解过的内容不再讲解。"
+author = { name = "BCC", link = "https://github.com/BCCHIT", date = "2026-11" }
+
 [[sections]]
 title = "在线资源"
 
