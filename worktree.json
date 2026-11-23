@@ -10,9 +10,9 @@
     "hash": "bf8621d5259e8e845b063751aa24bf0ff9d6c941"
   },
   "README.md": {
-    "size": 5970,
-    "time": 1791961157,
-    "hash": "5fd87843c5a09bc52056c60a096a112fb4d94aa8"
+    "size": 6226,
+    "time": 1795393364,
+    "hash": "9f8e4c7c546d039bad2e9b56826f03a509981e09"
   },
   "assignments/.gitkeep": {
     "size": 0,
@@ -39,6 +39,26 @@
     "time": 1701183511,
     "hash": "6120287bb5fc2196538c7900c472b24aeb429e83"
   },
+  "assignments/2025_BCC/作业1.docx": {
+    "size": 223881,
+    "time": 1795393348,
+    "hash": "dec61bd34d662dbd7280db20ab7d4e551da29786"
+  },
+  "assignments/2025_BCC/作业2.docx": {
+    "size": 279449,
+    "time": 1795393348,
+    "hash": "dec61bd34d662dbd7280db20ab7d4e551da29786"
+  },
+  "assignments/2025_BCC/作业3.docx": {
+    "size": 115645,
+    "time": 1795393348,
+    "hash": "dec61bd34d662dbd7280db20ab7d4e551da29786"
+  },
+  "assignments/2025_BCC/作业4.docx": {
+    "size": 126432,
+    "time": 1795393348,
+    "hash": "dec61bd34d662dbd7280db20ab7d4e551da29786"
+  },
   "exams/.gitkeep": {
     "size": 0,
     "time": 1739008610,
@@ -59,10 +79,15 @@
     "time": 1739008610,
     "hash": "fb4e857c1c4704b2ce1ea7650a6809181f66f764"
   },
+  "notes/2025_BCC/C++语言程序设计笔记_Alto主题.pdf": {
+    "size": 2495861,
+    "time": 1795393348,
+    "hash": "dec61bd34d662dbd7280db20ab7d4e551da29786"
+  },
   "readme.toml": {
-    "size": 5913,
-    "time": 1773427793,
-    "hash": "2b13e65c1de920b8eb8a5b66c0608038426f0596"
+    "size": 6185,
+    "time": 1795393364,
+    "hash": "9f8e4c7c546d039bad2e9b56826f03a509981e09"
   },
   "slides/.gitkeep": {
     "size": 0,
